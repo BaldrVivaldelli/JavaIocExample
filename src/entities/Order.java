@@ -1,3 +1,5 @@
+package entities;
+
 public class Order {
     private double totalAmount;
 
